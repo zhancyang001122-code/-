@@ -39,7 +39,7 @@ class MainActivity : ComponentActivity() {
                 try {
                     startActivity(intent)
                 } catch (e: Exception) {
-                    e.printStackTrace（）
+                    e.printStackTrace()
                 }
             }
         }
